@@ -2,15 +2,6 @@
 title: Home
 ---
 
-<nav class="nav">
-  <a href="index.md">Home</a> |
-  <a href="index.md#faqs">FAQs</a> |
-  <a href="faculty.md">Contact</a>
-</nav>
-<hr>
-
-# St. Bonaventure University Computing Programs
-
 Welcome! This website provides essential information for current students enrolled in the following computing-related programs at **St. Bonaventure University**:
 
 - 🖥️ **Computer Science**
