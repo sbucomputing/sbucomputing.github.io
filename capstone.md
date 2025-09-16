@@ -67,5 +67,6 @@ Integration of your project into your portfolio
 ### Getting Started
 - [Research Methods in Computing](https://web.archive.org/web/20160207213646id_/http://www.dcs.gla.ac.uk:80/publications/PAPERS/8445/sigsce-final.pdf)
 - [Writing Research Questions](https://writingcenter.gmu.edu/writing-resources/research-based-writing/how-to-write-a-research-question)
+
 ### Textbook
 - [Researching Information Systems and Computing](https://books.google.com/books/about/Researching_Information_Systems_and_Comp.html?id=atmYzgEACAAJ)
