@@ -3,7 +3,7 @@ title: Capstone
 ---
 
 # Capstone
-A senior comprehensive project is required of Computer Science and Data Science majors. 
+A senior comprehensive/capstone project is required of Computer Science and Data Science majors. 
 
 ## Requirements
 * Work under the supervision of one or more faculty members
@@ -14,7 +14,7 @@ A senior comprehensive project is required of Computer Science and Data Science 
 ## Timeline
 
 ### Getting Registered
-- Prior to their 4th year, students should propose a general idea to the faculty member that they'd like to be their mentor
+- Prior to their senior year, students should propose a general idea to the faculty member that they'd like to be their mentor
 - If the mentor approves of the idea, the student should:
 	- Email Dr. Bopp and CC their faculty mentor
 	- Indicate the general topic
@@ -41,9 +41,10 @@ A senior comprehensive project is required of Computer Science and Data Science 
 1. Introduction
 2. Description of at least 10 relevant academic articles
 3. Detailed description of what you will do in your project
-4. Description of courses drawn upon within and outside of the major
-5. Timeline for completing the project
-6. Citations
+4. Brief description of how you believe your work may contribute new knowledge to the field (grounded in the above academic articles)
+5. Brief description of courses drawn upon within and outside of the major
+6. Weekly timeline for completing the project
+7. Citations
 
 ### Final Paper
 A 10-15 single spaced final paper in an [ACM](https://www.acm.org/publications/authors/submissions) or IEEE standard template which contains:
