@@ -5,6 +5,7 @@ title: Home
 Welcome! This website provides essential information for current students enrolled in the following computing-related programs at **St. Bonaventure University**:
 
 - 🖥️ **Computer Science**
+- 💻 **Computer Information Systems**
 - 🔐 **Cybersecurity**
 - 📊 **Data Science**
 
@@ -39,6 +40,9 @@ For specific course requirements, visit the [curriculum](curriculum.md) page.
 
 - 🥽 [How do I access the virtual lab environment?](https://vlab.sbu.edu)  
   The virtual lab environment is only available on campus or via VPN with a valid SBU account.
+
+- 📜 [Where can I find information on industry certifications and discounts?](certifications.md)  
+  Find details on training, exam discounts, retake policies, and lab access for industry certifications like Red Hat.
 
 ## 👓 Other Questions?
 
