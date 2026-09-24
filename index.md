@@ -22,6 +22,12 @@ For specific course requirements, visit the [curriculum](curriculum.md) page.
 | 3    | a. Update [portfolio](portfolio.md)<br>b. Complete [field clinical block](https://catalog.sbu.edu/undergraduate/arts-sciences/computer-science/cosc-aded-bs/#overviewtext) | a. Update [portfolio](portfolio.md)<br>b. Plan your [internship](internships.md)<br>c. Brainstorm for your [capstone](capstone.md) | a. Update [portfolio](portfolio.md)<br>b. Plan your [internship](internships.md) | a. Update [portfolio](portfolio.md)<br>b. Brainstorm for your [capstone](capstone.md) |
 | 4    | a. Update [portfolio](portfolio.md) | a. Update [portfolio](portfolio.md)<br>b. Report on your [internship](internships.md)<br>c. Carry out your [capstone](capstone.md) | a. Update [portfolio](portfolio.md)<br>b. Report on your [internship](internships.md) | a. Update [portfolio](portfolio.md)<br>b. Carry out your [capstone](capstone.md) |
 
+## 📜 Industry Certifications
+
+Looking to validate your skills with industry-standard credentials? St. Bonaventure University partners with leading organizations such as Red Hat and CompTIA to offer free training, dedicated lab environments, and substantial exam discounts.
+
+- 👉 Explore training opportunities, vouchers, and lab access on the **[Certifications Guide](certifications.md)**.
+
 ## ⚠️ FAQ's
 - 🔗 [How can I connect with the computing community at SBU?](community.md)  
   Join your peers, faculty and alumni on Slack and LinkedIn.
