@@ -4,8 +4,8 @@ title: Home
 
 Welcome! This website provides essential information for current students enrolled in the following computing-related programs at **St. Bonaventure University**:
 
-- 🖥️ **Computer Science**
 - 💻 **Computer Information Systems**
+- 🖥️ **Computer Science**
 - 🔐 **Cybersecurity**
 - 📊 **Data Science**
 
