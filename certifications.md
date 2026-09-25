@@ -12,6 +12,7 @@ St. Bonaventure partners with Comptia and Red Hat to offer free training and dis
 - **Red Hat Lab Hours:** Students get **60 hours total lab time** per Red Hat course.
   - *Account & Enrollment Requirement:* Students must first create a Red Hat account, then contact their professor to be enrolled in their course of choice. 
   - You will not be able to fully log in to Red Hat Academy until you have been enrolled in a course.
+  - Courses: [Red Hat Available Courses](pics/redhat_courses.png)
 
 ---
 
