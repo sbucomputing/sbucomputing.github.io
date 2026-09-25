@@ -14,7 +14,7 @@ St. Bonaventure partners with Comptia and Red Hat to offer free training and dis
   - You will not be able to fully log in to Red Hat Academy until you have been enrolled in a course.
   - Courses: 
 
-![Red Hat Available Courses](pics/redhat_courses.png)
+  ![Red Hat Available Courses](pics/redhat_courses.png)
 
 ---
 
